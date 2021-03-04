@@ -2,9 +2,9 @@ import React from 'react';
 
 import './App.css';
 
-import HomePage from './homepage.component';
+import HomePage from './pages/homepage/homepage.component';
 
-import './homepage.syles.scss';
+import './pages/homepage/homepage.syles.scss';
 
 function App() {
   return (
